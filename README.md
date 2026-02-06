@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Haneen!" src="./assets/header.png" />
+  <img width="80%" alt="Hello, I'm Hanin!" src="./assets/header.png" />
 </p>
 
 <br />
