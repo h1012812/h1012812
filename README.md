@@ -1,6 +1,6 @@
 <br />
 
-### Hi, I'm Haneen 👋  
+### Hi, I'm Hanin 👋  
 Learning Java, C++, HTML, CSS, and JavaScript 💻  
 Building my first game 🎮 and planning a store website 🛍️  
 UI/UX lover 🎨
@@ -13,7 +13,6 @@ UI/UX lover 🎨
 - 🛍️ Planning to build a simple e‑commerce website  
 - 🎨 Passionate about UI/UX and front‑end development  
 - 🚀 Growing my skills step by step  
-- 💬 Feel free to ask me anything in the Issues section
 
 ---
 
