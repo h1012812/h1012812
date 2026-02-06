@@ -17,12 +17,6 @@ UI/UX lover 🎨
 
 ---
 
-### 📊 GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=h1012812&show_icons=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1012812&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
----
 
 ### 📌 Featured Projects
 
