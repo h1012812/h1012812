@@ -14,21 +14,4 @@ A passionate learner exploring **Java**, **C++**, and **JavaScript**, with a gro
 
 ---
 
-### 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=h1012812&show_icons=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1012812&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
----
-
-### 📌 Featured Projects
-
-<a href="https://github.com/h1012812">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h1012812&repo=your-project-name&theme=buefy" />
-</a>
-
-<a href="https://github.com/h1012812">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h1012812&repo=another-project&theme=buefy" />
-</a>
-
-<br /><br />
