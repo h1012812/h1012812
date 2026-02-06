@@ -13,5 +13,13 @@ A passionate learner exploring **Java**, **C++**, and **JavaScript**, with a gro
 - 💬 Feel free to ask me anything in the Issues section
 
 ---
+### 📌 Featured Projects
+
+🚧 **Game Project — In Progress**  
+I'm currently developing a small game and learning game logic + UI flow.
+
+🛍️ **E‑Commerce Website — Coming Soon**  
+Planning to build my first store website, focusing on UI/UX and clean front‑end structure.
+
 
 
