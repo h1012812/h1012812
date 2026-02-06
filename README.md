@@ -4,7 +4,7 @@
 
 <br />
 
-### Hi, I'm Haneen 👋  
+### Hi, I'm Hanin 👋  
 A passionate learner exploring **Java**, **C++**, and **JavaScript**, with a growing love for **UI/UX design** and building smooth, intuitive user experiences.
 
 ---
